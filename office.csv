@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Salary,Experience,Attendance,Performance_Score,Performance_Level
+101,Amit,HR,45000,2,92,75,Average
+102,Riya,IT,70000,5,95,88,Good
+103,Karan,Finance,65000,4,88,80,Good
+104,Sneha,IT,75000,6,96,92,Excellent
+105,Rahul,Marketing,55000,3,90,78,Average
+106,Priya,Finance,68000,5,93,85,Good
+107,Ankit,HR,48000,2,89,74,Average
+108,Neha,IT,72000,7,97,95,Excellent
+109,Vikas,Marketing,60000,4,91,82,Good
+110,Pooja,Finance,67000,6,94,89,Good
